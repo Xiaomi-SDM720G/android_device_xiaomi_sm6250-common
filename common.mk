@@ -69,8 +69,8 @@ PRODUCT_PACKAGES += \
     disable_configstore
 
 # Doze
-PRODUCT_PACKAGES += \
-    XiaomiDoze
+#PRODUCT_PACKAGES += \
+#    XiaomiDoze
 
 # DRM
 PRODUCT_PACKAGES += \
@@ -244,7 +244,7 @@ PRODUCT_BOOT_JARS += \
     WfdCommon
 
 # XiaomiParts
-PRODUCT_PACKAGES += \
-    XiaomiParts \
-    init.xiaomiparts.rc \
-    init.xiaomiparts.sh
+#PRODUCT_PACKAGES += \
+#    XiaomiParts \
+#    init.xiaomiparts.rc \
+#    init.xiaomiparts.sh
