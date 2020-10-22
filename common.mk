@@ -67,6 +67,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libgui_vendor
 
+# Display
+PRODUCT_PACKAGES += \
+    disable_configstore
+
 # Doze
 PRODUCT_PACKAGES += \
     XiaomiDoze
